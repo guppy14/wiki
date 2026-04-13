@@ -10,7 +10,14 @@ Parse recent entries: `grep "^## \[" log.md | head -10`
 
 ---
 
-## [2026-04-10] ingest | Process Device Library (Actemium Schweiz / Siemens)
+## [2026-04-13] ingest | Library of General Functions (Siemens)
+
+- **Pages created:** `pages/sources/109479728-lgf-v5-1-1-de.md`, `pages/entities/library-of-general-functions.md`, `pages/concepts/engineering-efficiency.md`
+- **Pages updated:** `pages/entities/siemens.md`, `pages/entities/tia-portal.md`, `pages/concepts/industrie-4-0.md`, `pages/concepts/sps-plc.md`, `index.md` (31 pages total)
+- **Contradictions found:** none; ergänzt die Automatisierungsbasis um Standardfunktionen
+- **Notes:** Umfangreiche PDF (376 S.) analysiert. Fokus auf Basisbibliotheken zur Steigerung der Engineering-Effizienz. LGF als komplementär zur PDL (Quelle 3) identifiziert.
+
+---
 
 - **Pages created:** `pages/sources/process-device-library.md`, `pages/entities/actemium-schweiz.md`, `pages/entities/tia-portal.md`, `pages/concepts/sps-plc.md`, `pages/concepts/hmi-scada.md`, `pages/concepts/industrie-4-0.md`
 - **Pages updated:** `pages/entities/siemens.md` (Actemium/PDL/TIA Portal ergänzt), `index.md` (28 pages total)

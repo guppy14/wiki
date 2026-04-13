@@ -5,22 +5,23 @@ title: Wiki Index
 
 # Wiki Index
 
-_Last updated: 2026-04-10 — 28 pages total_
+_Last updated: 2026-04-13 — 31 pages total_
 
 > This index is maintained by the LLM Wiki Agent. Do not edit manually.
 > Read this file at the start of each session to navigate the wiki.
 
 ---
 
-## Sources (3)
+## Sources (4)
 
 | Page | Summary | Date |
 |------|---------|------|
 | [[pages/sources/llm-wiki-pattern\|LLM Wiki Pattern]] | Foundational pattern: LLM-maintained persistent wiki as alternative to RAG | 2026-04-10 |
 | [[pages/sources/digitale-zwillingstechnologie\|Digitale Zwillingstechnologie]] | Siemens-Artikel: KI-gestützte Digital Twins kombinieren physikbasierte Simulation mit Echtzeit-Betriebsdaten | 2026-04-10 |
 | [[pages/sources/process-device-library\|Process Device Library]] | Actemium Schweiz: branchenübergreifende SPS-Bibliothek für TIA Portal mit automatischer HMI/SCADA-Generierung | 2026-04-10 |
+| [[pages/sources/109479728-lgf-v5-1-1-de\|LGF User Manual]] | Siemens: Library of General Functions für SIMATIC S7-1200 / S7-1500 (Basisbibliotheken) | 2026-04-13 |
 
-## Entities (12)
+## Entities (13)
 
 | Page | Type | Summary |
 |------|------|---------|
@@ -35,9 +36,10 @@ _Last updated: 2026-04-10 — 28 pages total_
 | [[pages/entities/nvidia\|NVIDIA]] | organization | Technologiepartner von Siemens für Industrial AI, Digital Twins und Industrial Metaverse |
 | [[pages/entities/hannover-messe-2026\|Hannover Messe 2026]] | event | Industriemesse 20.–24. April 2026; Siemens präsentiert Industrial AI |
 | [[pages/entities/actemium-schweiz\|Actemium Schweiz]] | organization | Schweizer Automatisierungsunternehmen im Siemens-Ökosystem; Entwickler der Process Device Library |
-| [[pages/entities/tia-portal\|TIA Portal]] | tool | Siemens-Engineeringplattform für SPS, HMI und SCADA; Basis für PDL |
+| [[pages/entities/tia-portal\|TIA Portal]] | tool | Siemens-Engineeringplattform für SPS, HMI und SCADA; Basis für PDL und LGF |
+| [[pages/entities/library-of-general-functions\|LGF]] | tool | Siemens Library of General Functions; Basisbibliothek für Automatisierungsaufgaben |
 
-## Concepts (11)
+## Concepts (12)
 
 | Page | Summary |
 |------|---------|
@@ -52,6 +54,7 @@ _Last updated: 2026-04-10 — 28 pages total_
 | [[pages/concepts/sps-plc\|SPS / PLC]] | Speicherprogrammierbare Steuerung; operative Kernebene der Industrieautomation |
 | [[pages/concepts/hmi-scada\|HMI / SCADA]] | Bedien- und Leitsysteme für industrielle Anlagen; PDL automatisiert deren Generierung |
 | [[pages/concepts/industrie-4-0\|Industrie 4.0]] | Vierte industrielle Revolution: Vernetzung von Produktion, IT/OT und cyber-physischen Systemen |
+| [[pages/concepts/engineering-efficiency\|Engineering-Effizienz]] | Optimierung von Zeitaufwand und Qualität durch Standardisierung und Automatisierung |
 
 ## Synthesis (0)
 
